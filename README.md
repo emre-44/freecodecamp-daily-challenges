@@ -12,8 +12,9 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 
 | # | Problem Name | Python Solution | JavaScript Solution | Date |
 |---|--------------|-----------------|---------------------|------|
-| 1 | Vowel Balance | [🐍 Python](./1-vowel-balance/vowel_balance.py) | [📜 JavaScript](./1-vowel-balance/vowel_balance.js) | 21.02.2026 |
-| 2 | Base Check | [🐍 Python](./2-base-check/base_check.py) | [📜 JavaScript](./2-base-check/base_check.js) | xx.xx.xx |
+| 1 | Vowel Balance | [🐍 Python](./1-vowel-balance/vowel_balance.py) | [📜 JavaScript](./1-vowel-balance/vowel-balance.js) | 21.02.2026 |
+| 2 | Base Check | [🐍 Python](./2-base-check/base_check.py) | [📜 JavaScript](./2-base-check/base-check.js) | 22.02.2026 |
+| 3 | Fibonacci Sequence | [🐍 Python](./3-fibonacci-sequence/fibonacci_sequence.py) | [📜 JavaScript](./3-fibonacci-sequence/fibonacci-sequence.js) | 22.02.2026 |
 
 
 
