@@ -14,9 +14,10 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 |---|--------------|-----------------|---------------------|------|
 | 1 | Vowel Balance | [🐍 Python](./1-vowel-balance/vowel_balance.py) | [📜 JavaScript](./1-vowel-balance/vowel-balance.js) | 21.02.2026 |
 | 2 | Base Check | [🐍 Python](./2-base-check/base_check.py) | [📜 JavaScript](./2-base-check/base-check.js) | 22.02.2026 |
-| 3 | Fibonacci Sequence | [🐍 Python](./3-fibonacci-sequence/fibonacci_sequence.py) | [📜 JavaScript](./3-fibonacci-sequence/fibonacci-sequence.js) | 22.02.2026 |
-| 4 | Spacejam | [🐍 Python](./4-spacejam/spacejam.py) | [📜 JavaScript](./4-spacejam/spacejam.js) | 22.02.2026 |
-| 5 | Jbelmud Text | [🐍 Python](./5-jbelmud-text/jbelmud_text.py) | [📜 JavaScript](./5-jbelmud-text/jbelmud-text.js) | 22.02.2026 |
+| 3 | Fibonacci Sequence | [🐍 Python](./3-fibonacci-sequence/fibonacci_sequence.py) | [📜 JavaScript](./3-fibonacci-sequence/fibonacci-sequence.js) | 23.02.2026 |
+| 4 | Spacejam | [🐍 Python](./4-spacejam/spacejam.py) | [📜 JavaScript](./4-spacejam/spacejam.js) | 24.02.2026 |
+| 5 | Jbelmud Text | [🐍 Python](./5-jbelmud-text/jbelmud_text.py) | [📜 JavaScript](./5-jbelmud-text/jbelmud-text.js) | 25.02.2026 |
+| 6 | Anagram Checker | [🐍 Python](./6-anagram-checker/anagram_checker.py) | [📜 JavaScript](./6-anagram-checker/anagram-checker.js) | 26.02.2026 |
 
 
 
