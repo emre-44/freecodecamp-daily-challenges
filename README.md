@@ -19,6 +19,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 5 | Jbelmud Text | [🐍 Python](./5-jbelmud-text/jbelmud_text.py) | [📜 JavaScript](./5-jbelmud-text/jbelmud-text.js) | 25.02.2026 |
 | 6 | Anagram Checker | [🐍 Python](./6-anagram-checker/anagram_checker.py) | [📜 JavaScript](./6-anagram-checker/anagram-checker.js) | 26.02.2026 |
 | 7 | Targeted Sum | [🐍 Python](./7-targeted-sum/targeted_sum.py) | [📜 JavaScript](./7-targeted-sum/targeted-sum.js) | 27.02.2026 |
+| 8 | Factorializer | [🐍 Python](./8-factorializer/factorializer.py) | [📜 JavaScript](./8-factorializer/factorializer.js) | 28.02.2026 |
 
 
 
