@@ -21,6 +21,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 7 | Targeted Sum | [🐍 Python](./7-targeted-sum/targeted_sum.py) | [📜 JavaScript](./7-targeted-sum/targeted-sum.js) | 27.02.2026 |
 | 8 | Factorializer | [🐍 Python](./8-factorializer/factorializer.py) | [📜 JavaScript](./8-factorializer/factorializer.js) | 28.02.2026 |
 | 9 | Sum of Squares | [🐍 Python](./9-sum-of-squares/sum_of_squares.py) | [📜 JavaScript](./9-sum-of-squares/sum-of-squares.js) | 01.03.2026 |
+| 10 | 3 Strikes | [🐍 Python](./10-three-strikes/three_strikes.py) | [📜 JavaScript](./10-three-strikes/three-strikes.js) | 01.03.2026 |
 
 
 
