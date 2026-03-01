@@ -20,6 +20,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 6 | Anagram Checker | [🐍 Python](./6-anagram-checker/anagram_checker.py) | [📜 JavaScript](./6-anagram-checker/anagram-checker.js) | 26.02.2026 |
 | 7 | Targeted Sum | [🐍 Python](./7-targeted-sum/targeted_sum.py) | [📜 JavaScript](./7-targeted-sum/targeted-sum.js) | 27.02.2026 |
 | 8 | Factorializer | [🐍 Python](./8-factorializer/factorializer.py) | [📜 JavaScript](./8-factorializer/factorializer.js) | 28.02.2026 |
+| 9 | Sum of Squares | [🐍 Python](./9-sum-of-squares/sum_of_squares.py) | [📜 JavaScript](./9-sum-of-squares/sum-of-squares.js) | 01.03.2026 |
 
 
 
