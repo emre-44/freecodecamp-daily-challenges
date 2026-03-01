@@ -12,16 +12,16 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 
 | # | Problem Name | Python Solution | JavaScript Solution | Date |
 |---|--------------|-----------------|---------------------|------|
-| 1 | Vowel Balance | [🐍 Python](./1-vowel-balance/vowel_balance.py) | [📜 JavaScript](./1-vowel-balance/vowel-balance.js) | 21.02.2026 |
-| 2 | Base Check | [🐍 Python](./2-base-check/base_check.py) | [📜 JavaScript](./2-base-check/base-check.js) | 22.02.2026 |
-| 3 | Fibonacci Sequence | [🐍 Python](./3-fibonacci-sequence/fibonacci_sequence.py) | [📜 JavaScript](./3-fibonacci-sequence/fibonacci-sequence.js) | 23.02.2026 |
-| 4 | Spacejam | [🐍 Python](./4-spacejam/spacejam.py) | [📜 JavaScript](./4-spacejam/spacejam.js) | 24.02.2026 |
-| 5 | Jbelmud Text | [🐍 Python](./5-jbelmud-text/jbelmud_text.py) | [📜 JavaScript](./5-jbelmud-text/jbelmud-text.js) | 25.02.2026 |
-| 6 | Anagram Checker | [🐍 Python](./6-anagram-checker/anagram_checker.py) | [📜 JavaScript](./6-anagram-checker/anagram-checker.js) | 26.02.2026 |
-| 7 | Targeted Sum | [🐍 Python](./7-targeted-sum/targeted_sum.py) | [📜 JavaScript](./7-targeted-sum/targeted-sum.js) | 27.02.2026 |
-| 8 | Factorializer | [🐍 Python](./8-factorializer/factorializer.py) | [📜 JavaScript](./8-factorializer/factorializer.js) | 28.02.2026 |
-| 9 | Sum of Squares | [🐍 Python](./9-sum-of-squares/sum_of_squares.py) | [📜 JavaScript](./9-sum-of-squares/sum-of-squares.js) | 01.03.2026 |
-| 10 | 3 Strikes | [🐍 Python](./10-three-strikes/three_strikes.py) | [📜 JavaScript](./10-three-strikes/three-strikes.js) | 01.03.2026 |
+| 1 | Vowel Balance | [🐍 Python](./0001-vowel-balance/vowel_balance.py) | [📜 JavaScript](./0001-vowel-balance/vowel-balance.js) | 21.02.2026 |
+| 2 | Base Check | [🐍 Python](./0002-base-check/base_check.py) | [📜 JavaScript](./0002-base-check/base-check.js) | 22.02.2026 |
+| 3 | Fibonacci Sequence | [🐍 Python](./0003-fibonacci-sequence/fibonacci_sequence.py) | [📜 JavaScript](./0003-fibonacci-sequence/fibonacci-sequence.js) | 23.02.2026 |
+| 4 | Spacejam | [🐍 Python](./0004-spacejam/spacejam.py) | [📜 JavaScript](./0004-spacejam/spacejam.js) | 24.02.2026 |
+| 5 | Jbelmud Text | [🐍 Python](./0005-jbelmud-text/jbelmud_text.py) | [📜 JavaScript](./0005-jbelmud-text/jbelmud-text.js) | 25.02.2026 |
+| 6 | Anagram Checker | [🐍 Python](./0006-anagram-checker/anagram_checker.py) | [📜 JavaScript](./0006-anagram-checker/anagram-checker.js) | 26.02.2026 |
+| 7 | Targeted Sum | [🐍 Python](./0007-targeted-sum/targeted_sum.py) | [📜 JavaScript](./0007-targeted-sum/targeted-sum.js) | 27.02.2026 |
+| 8 | Factorializer | [🐍 Python](./0008-factorializer/factorializer.py) | [📜 JavaScript](./0008-factorializer/factorializer.js) | 28.02.2026 |
+| 9 | Sum of Squares | [🐍 Python](./0009-sum-of-squares/sum_of_squares.py) | [📜 JavaScript](./0009-sum-of-squares/sum-of-squares.js) | 01.03.2026 |
+| 10 | 3 Strikes | [🐍 Python](./0010-three-strikes/three_strikes.py) | [📜 JavaScript](./0010-three-strikes/three-strikes.js) | 01.03.2026 |
 
 
 
