@@ -22,7 +22,8 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 8 | Factorializer | [🐍 Python](./0008-factorializer/factorializer.py) | [📜 JavaScript](./0008-factorializer/factorializer.js) | 28.02.2026 |
 | 9 | Sum of Squares | [🐍 Python](./0009-sum-of-squares/sum_of_squares.py) | [📜 JavaScript](./0009-sum-of-squares/sum-of-squares.js) | 01.03.2026 |
 | 10 | 3 Strikes | [🐍 Python](./0010-three-strikes/three_strikes.py) | [📜 JavaScript](./0010-three-strikes/three-strikes.js) | 01.03.2026 |
-| 11 | Mile Pace | [🐍 Python](./0011-mile-pace/mile_pace.py) | [📜 JavaScript](./0011-mile-pace/mile-pace.js) | 01.03.2026 |
+| 11 | Mile Pace | [🐍 Python](./0011-mile-pace/mile_pace.py) | [📜 JavaScript](./0011-mile-pace/mile-pace.js) | 02.03.2026 |
+| 12 | Message Decoder | [🐍 Python](./0012-message-decoder/message_decoder.py) | [📜 JavaScript](./0012-message-decoder/message-decoder.js) | 03.03.2026 |
 
 
 
