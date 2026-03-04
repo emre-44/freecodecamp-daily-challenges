@@ -24,7 +24,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 10 | 3 Strikes | [🐍 Python](./0010-three-strikes/three_strikes.py) | [📜 JavaScript](./0010-three-strikes/three-strikes.js) | 01.03.2026 |
 | 11 | Mile Pace | [🐍 Python](./0011-mile-pace/mile_pace.py) | [📜 JavaScript](./0011-mile-pace/mile-pace.js) | 02.03.2026 |
 | 12 | Message Decoder | [🐍 Python](./0012-message-decoder/message_decoder.py) | [📜 JavaScript](./0012-message-decoder/message-decoder.js) | 03.03.2026 |
-
+| 13 | Unnatural Prime | [🐍 Python](./0013-unnatural-prime/unnatural_prime.py) | [📜 JavaScript](./0013-unnatural-prime/unnatural-prime.js) | 04.03.2026 |
 
 
 ## 🚀 How to Use
