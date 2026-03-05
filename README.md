@@ -25,6 +25,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 11 | Mile Pace | [🐍 Python](./0011-mile-pace/mile_pace.py) | [📜 JavaScript](./0011-mile-pace/mile-pace.js) | 02.03.2026 |
 | 12 | Message Decoder | [🐍 Python](./0012-message-decoder/message_decoder.py) | [📜 JavaScript](./0012-message-decoder/message-decoder.js) | 03.03.2026 |
 | 13 | Unnatural Prime | [🐍 Python](./0013-unnatural-prime/unnatural_prime.py) | [📜 JavaScript](./0013-unnatural-prime/unnatural-prime.js) | 04.03.2026 |
+| 14 | Character Battle | [🐍 Python](./0014-character-battle/character_battle.py) | [📜 JavaScript](./0014-character-battle/character-battle.js) | 05.03.2026 |
 
 
 ## 🚀 How to Use
