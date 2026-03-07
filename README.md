@@ -26,7 +26,8 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 12 | Message Decoder | [🐍 Python](./0012-message-decoder/message_decoder.py) | [📜 JavaScript](./0012-message-decoder/message-decoder.js) | 03.03.2026 |
 | 13 | Unnatural Prime | [🐍 Python](./0013-unnatural-prime/unnatural_prime.py) | [📜 JavaScript](./0013-unnatural-prime/unnatural-prime.js) | 04.03.2026 |
 | 14 | Character Battle | [🐍 Python](./0014-character-battle/character_battle.py) | [📜 JavaScript](./0014-character-battle/character-battle.js) | 05.03.2026 |
-| 15 | camelase | [🐍 Python](./0015-camelCase/camel_case.py) | [📜 JavaScript](./0015-camelCase/camel-case.js) | 06.03.2026 |
+| 15 | camelCase | [🐍 Python](./0015-camelCase/camel_case.py) | [📜 JavaScript](./0015-camelCase/camel-case.js) | 06.03.2026 |
+| 16 | Reverse Parenthesis | [🐍 Python](./0016-reverse-parenthesis/reverse_parenthesis.py) | [📜 JavaScript](./0016-reverse-parenthesis/reverse-parenthesis.js) | 07.03.2026 |
 
 
 ## 🚀 How to Use
