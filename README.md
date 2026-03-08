@@ -28,6 +28,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 14 | Character Battle | [🐍 Python](./0014-character-battle/character_battle.py) | [📜 JavaScript](./0014-character-battle/character-battle.js) | 05.03.2026 |
 | 15 | camelCase | [🐍 Python](./0015-camelCase/camel_case.py) | [📜 JavaScript](./0015-camelCase/camel-case.js) | 06.03.2026 |
 | 16 | Reverse Parenthesis | [🐍 Python](./0016-reverse-parenthesis/reverse_parenthesis.py) | [📜 JavaScript](./0016-reverse-parenthesis/reverse-parenthesis.js) | 07.03.2026 |
+| 17 | Unorder of Operations | [🐍 Python](./0017-unorder-of-operations/unorder_of_operations.py) | [📜 JavaScript](./0017-unorder-of-operations/unorder-of-operations.js) | 08.03.2026 |
 
 
 ## 🚀 How to Use
