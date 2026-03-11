@@ -30,6 +30,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 16 | Reverse Parenthesis | [🐍 Python](./0016-reverse-parenthesis/reverse_parenthesis.py) | [📜 JavaScript](./0016-reverse-parenthesis/reverse-parenthesis.js) | 07.03.2026 |
 | 17 | Unorder of Operations | [🐍 Python](./0017-unorder-of-operations/unorder_of_operations.py) | [📜 JavaScript](./0017-unorder-of-operations/unorder-of-operations.js) | 08.03.2026 |
 | 18 | Second Best | [🐍 Python](./0018-second-best/second_best.py) | [📜 JavaScript](./0018-second-best/second-best.js) | 09.03.2026 |
+| 19 | Candlelight | [🐍 Python](./0019-candlelight/candlelight.py) | [📜 JavaScript](./0019-candlelight/candlelight.js) | 11.03.2026 |
 
 
 ## 🚀 How to Use
