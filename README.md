@@ -32,6 +32,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 18 | Second Best | [🐍 Python](./0018-second-best/second_best.py) | [📜 JavaScript](./0018-second-best/second-best.js) | 09.03.2026 |
 | 19 | Candlelight | [🐍 Python](./0019-candlelight/candlelight.py) | [📜 JavaScript](./0019-candlelight/candlelight.js) | 11.03.2026 |
 | 20 | Array Duplicates | [🐍 Python](./0020-array-duplicates/array_duplicates.py) | [📜 JavaScript](./0020-array-duplicates/array-duplicates.js) | 12.03.2026 |
+| 21 | Hex Generator | [🐍 Python](./0021-hex-generator/hex_generator.py) | [📜 JavaScript](./0021-hex-generator/hex-generator.js) | 13.03.2026 |
 
 ## 🚀 How to Use
 
