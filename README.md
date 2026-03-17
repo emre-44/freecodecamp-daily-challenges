@@ -35,7 +35,8 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 21 | Hex Generator | [🐍 Python](./0021-hex-generator/hex_generator.py) | [📜 JavaScript](./0021-hex-generator/hex-generator.js) | 13.03.2026 |
 | 22 | Tribonacci Sequence | [🐍 Python](./0022-tribonacci-sequence/tribonacci_sequence.py) | [📜 JavaScript](./0022-tribonacci-sequence/tribonacci-sequence.js) | 14.03.2026 |
 | 23 | RGB to Hex | [🐍 Python](./0023-rgbtohex/rgbtohex.py) | [📜 JavaScript](./0023-rgbtohex/rgbtohex.js) | 15.03.2026 |
-| 24 | Pangram| [🐍 Python](./0024-pangram/pangram.py) | [📜 JavaScript](./0024-pangram/pangram.js) | 16.03.2026 |
+| 24 | Pangram | [🐍 Python](./0024-pangram/pangram.py) | [📜 JavaScript](./0024-pangram/pangram.js) | 16.03.2026 |
+| 25 | Vowel Repeater | [🐍 Python](./0025-vowel-repeater/vowel_repeater.py) | [📜 JavaScript](./0025-vowel-repeater/vowel-repeater.js) | 17.03.2026 |
 ## 🚀 How to Use
 
 1. Find the problem you're interested in from the table above
