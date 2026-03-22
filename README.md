@@ -39,6 +39,8 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 25 | Vowel Repeater | [🐍 Python](./0025-vowel-repeater/vowel_repeater.py) | [📜 JavaScript](./0025-vowel-repeater/vowel-repeater.js) | 17.03.2026 |
 | 26 | Ipv4 Validator | [🐍 Python](./0026-ipv4-validator/ipv4_validator.py) | [📜 JavaScript](./0026-ipv4-validator/ipv4-validator.js) | 20.03.2026 |
 | 27 | Matrix Rotate | [🐍 Python](./0027-matrix-rotate/matrix_rotate.py) | [📜 JavaScript](./0027-matrix-rotate/matrix-rotate.js) | 21.03.2026 |
+| 28 | Roman Numeral Parser | [🐍 Python](./0028-roman-numeral-parser/roman_numeral_parser.py) | [📜 JavaScript](./0028-roman-numeral-parser/roman-numeral-parser.js) | 21.03.2026 |
+
 ## 🚀 How to Use
 
 1. Find the problem you're interested in from the table above
