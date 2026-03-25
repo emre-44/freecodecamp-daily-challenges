@@ -8,7 +8,7 @@ def all_unique(s):
     letters = []
     for letter in s:
         letters.append(letter)
-    
+
     for letter in letters:
         letters.remove(letter)
         if letter in letters:
