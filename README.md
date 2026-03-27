@@ -44,6 +44,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 30 | Unique Characters | [🐍 Python](./0030-unique-characters/unique_characters.py) | [📜 JavaScript](./0030-unique-characters/unique-characters.js) | 24.03.2026 |
 | 31 | Array Diff | [🐍 Python](./0031-array-diff/array_diff.py) | [📜 JavaScript](./0031-array-diff/array-diff.js) | 25.03.2026 |
 | 32 | Reverse Sentence | [🐍 Python](./0032-reverse-sentence/reverse_sentence.py) | [📜 JavaScript](./0032-reverse-sentence/reverse-sentence.js) | 26.03.2026 |
+| 33 | Screen Time | [🐍 Python](./0033-screen-time/screen_time.py) | [📜 JavaScript](./0033-screen-time/screen-time.js) | 27.03.2026 |
 
 ## 🚀 How to Use
 
