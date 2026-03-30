@@ -46,7 +46,7 @@ Daily solutions for freeCodeCamp coding challenges. Each problem is solved in bo
 | 32 | Reverse Sentence | [🐍 Python](./0032-reverse-sentence/reverse_sentence.py) | [📜 JavaScript](./0032-reverse-sentence/reverse-sentence.js) | 26.03.2026 |
 | 33 | Screen Time | [🐍 Python](./0033-screen-time/screen_time.py) | [📜 JavaScript](./0033-screen-time/screen-time.js) | 27.03.2026 |
 | 34 | Missing Numbers | [🐍 Python](./0034-missing-numbers/missing_numbers.py) | [📜 JavaScript](./0034-missing-numbers/missing-numbers.js) | 29.03.2026 |
-
+| 35 | Word Frequency | [🐍 Python](./0035-word-frequency/word_frequency.py) | --- | 30.03.2026 |
 ## 🚀 How to Use
 
 1. Find the problem you're interested in from the table above
